@@ -24,7 +24,7 @@ public class ReverseString {
 
     public static void main(String[] args) {
         // Example usage
-        String originalString = "Hello, World!";
+        String originalString = "Nikitha";
         String reversedString = reverse(originalString);
 
         // Print the original and reversed strings
